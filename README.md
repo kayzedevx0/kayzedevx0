@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- SVG Banner Animato -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Michele%20Ocone%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=40&desc=C%2B%2B,%20C%23%20&%20JS%20Developer&descAlignY=60&descAlign=60" alt="Michele Ocone Banner" width="100%" />
+  <!-- Banner SVG Animato (Assicurati di caricare il file animated_banner.svg nella repo e inserire il link corretto qui) -->
+  <img src="animated_banner.svg" alt="KAYZE Banner" width="100%" />
 
   <br><br>
+
+  <h1>Hi, I'm KAYZE 👋</h1>
 
   <p>
     I'm a developer focused on building useful tools, automation projects, and simple solutions.
